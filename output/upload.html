@@ -1,0 +1,12 @@
+    <!doctype html>
+    <title>Upload new File</title>
+    <h1>Upload new file For Analysis!!!</h1>
+    <form method=post enctype=multipart/form-data>
+      <input type=file name=file>
+      <input type=submit value=Upload>
+    </form>
+<a href="/getlist"> <button> Upload More files </button> </a>
+    {% if files_uploaded %}
+      <h1>The list of files uploaded are: </h1>
+        <td>{{files_uploaded}}!</td>
+    {% endif %}

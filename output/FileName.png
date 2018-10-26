@@ -1,0 +1,20 @@
+digraph {
+	graph [bb="0,0,381.98,108"];
+	node [label="\N"];
+	A	 [height=0.5,
+		label="King Arthur",
+		pos="190.99,90",
+		width=1.4985];
+	B	 [height=0.5,
+		label="Sir Bedevere the Wise",
+		pos="90.992,18",
+		width=2.5276];
+	A -> B	 [pos="e,114.52,35.467 168.8,73.465 155.33,64.037 137.92,51.847 122.98,41.39"];
+	L	 [height=0.5,
+		label="Sir Lancelot the Brave",
+		pos="290.99,18",
+		width=2.5276];
+	A -> L	 [pos="e,267.47,35.467 213.19,73.465 226.65,64.037 244.07,51.847 259.01,41.39"];
+	B -> L	 [constraint=false,
+		pos="e,199.89,18 182.01,18 184.62,18 187.22,18 189.83,18"];
+}

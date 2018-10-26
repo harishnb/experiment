@@ -1,0 +1,22 @@
+    <!doctype html>
+    <title>Upload new File</title>
+
+    {% if files_uploaded %}
+      <h1>The list of files uploaded are: </h1>
+        <td>{{files_uploaded}}!</td>
+        <a href="/"> <button> Return to upload </button> </a>
+        <a href="/exec"> <button> clear all files  </button> </a>
+    {% else %}
+        {% if is_empty %}
+            <h1>No files are present </h1>
+            <a href="/"> <button> Return to upload </button> </a>
+        {% else %}
+            <h1>Upload new file For Analysis!!!</h1>
+                <form method=post enctype=multipart/form-data>
+                    <input type=file name=file>
+                    <input type=submit value=Upload>
+                </form>
+                 <a href="/getlist"> <button> Get list of files </button> </a>
+        {% endif %}
+    {% endif %}
+

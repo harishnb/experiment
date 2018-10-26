@@ -1,0 +1,164 @@
+sum of time spent in each session per screen
+[{'Gui[12]': 4, 'AppGUI': 9, 'PVRBannerGui': 5, 'UccsDigitalOnlyTokenGui-Still': 0, 'MainMenuGUI': 13, 'MatteGUI': 85, 'SetupStill': 0, 'RecListGUI': 210, 'InviteGUI-Still': 0, 'RadioStill': 3, 'PinCodeGUI-Still': 39, 'BadServiceGUI-Still': 0, 'GSportsBarGUI': 2, 'GridBoxGUI': 37, 'SetupGUI': 2}, {'Gui[12]': 6, 'InfoBoxGUI': 0, 'PVRBannerGui': 112, 'UccsDigitalOnlyTokenGui-Still': 4254, 'PVRInstantRecGui': 8, 'MainMenuGUI': 10, 'GridBoxGUI': 318, 'RecListGUI': 16, 'InviteGUI-Still': 61, 'RadioStill': 2, 'MatteGUI': 158, 'VolumeGUI': 0, 'PinCodeGUI-Still': 0, 'PvrWarningMsgGUI': 28, 'HINWEISGUI': 0, 'BadServiceGUI-Still': 12, 'ViewingGUI': 0, 'SetupStill': 1, 'SetupGUI': 1}, {'PVRBannerGui': 94, 'UccsDigitalOnlyTokenGui-Still': 1, 'PVRInstantRecGui': 8, 'LaunchpadGUI': 15, 'Gui[12]': 9, 'GSportsBarGUI': 0, 'MatteGUI': 0, 'BadServiceGUI-Still': 9}, {'InfoBoxGUI': 19, 'StandbyGUI': 1, 'MainMenuGUI': 96, 'MatteGUI': 2, 'UccsDigitalOnlyTokenGui-Still': 1, 'BadServiceGUI-Still': 22, 'VolumeGUI': 0, 'SignalQualityGUI-Still': 39, 'RadioStill': 77, 'AppGUI': 13, 'UpdatePopupGUI': 11, 'PVRBannerGui': 9, 'AlarmPopupGUI': 0, 'PVRInstantRecGui': 0, 'GridBoxGUI': 152, 'LaunchpadGUI': 2, 'RecListGUI': 0, 'InviteGUI-Still': 0, 'PinCodeGUI-Still': 49, 'HINWEISGUI': 2, 'ViewingGUI': 0, 'SetupGUI': 0}, {'InfoBoxGUI': 19, 'StandbyGUI': 1, 'MainMenuGUI': 96, 'MatteGUI': 2, 'UccsDigitalOnlyTokenGui-Still': 1, 'BadServiceGUI-Still': 22, 'VolumeGUI': 0, 'SignalQualityGUI-Still': 39, 'RadioStill': 77, 'AppGUI': 13, 'UpdatePopupGUI': 11, 'PVRBannerGui': 9, 'AlarmPopupGUI': 0, 'PVRInstantRecGui': 0, 'GridBoxGUI': 152, 'LaunchpadGUI': 2, 'RecListGUI': 0, 'InviteGUI-Still': 0, 'PinCodeGUI-Still': 49, 'HINWEISGUI': 2, 'ViewingGUI': 0, 'SetupGUI': 0}, {'InfoBoxGUI': 3, 'PVRBannerGui': 0, 'UccsDigitalOnlyTokenGui-Still': 0, 'StandbyGUI': 0, 'LaunchpadGUI': 0, 'MainMenuGUI': 9, 'Gui[12]': 560, 'PVRInstantRecGui': 13, 'RecListGUI': 27, 'RadioStill': 2, 'MatteGUI': 43, 'VolumeGUI': 0, 'BadServiceGUI-Still': 7, 'SetupStill': 0, 'SetupGUI': 9, 'GSportsBarGUI': 0, 'ViewingGUI': 0, 'AlarmPopupGUI': 0, 'GridBoxGUI': 44}]
+Gui[12] = 0.05
+AppGUI = 0.025
+PVRBannerGui = 0.05
+UccsDigitalOnlyTokenGui-Still = 0.025
+MainMenuGUI = 0.125
+MatteGUI = 0.125
+SetupStill = 0.025
+RecListGUI = 0.175
+InviteGUI-Still = 0.025
+RadioStill = 0.075
+PinCodeGUI-Still = 0.075
+BadServiceGUI-Still = 0.025
+GSportsBarGUI = 0.05
+GridBoxGUI = 0.125
+SetupGUI = 0.025
+Gui[12] = 0.06
+InfoBoxGUI = 0.02
+PVRBannerGui = 0.06
+UccsDigitalOnlyTokenGui-Still = 0.06
+PVRInstantRecGui = 0.04
+MainMenuGUI = 0.04
+GridBoxGUI = 0.1
+RecListGUI = 0.04
+InviteGUI-Still = 0.08
+RadioStill = 0.12
+MatteGUI = 0.14
+VolumeGUI = 0.02
+PinCodeGUI-Still = 0.02
+PvrWarningMsgGUI = 0.06
+HINWEISGUI = 0.02
+BadServiceGUI-Still = 0.06
+ViewingGUI = 0.02
+SetupStill = 0.02
+SetupGUI = 0.02
+PVRBannerGui = 0.0909
+UccsDigitalOnlyTokenGui-Still = 0.0455
+PVRInstantRecGui = 0.0909
+LaunchpadGUI = 0.0909
+Gui[12] = 0.2727
+GSportsBarGUI = 0.1818
+MatteGUI = 0.0455
+BadServiceGUI-Still = 0.1818
+InfoBoxGUI = 0.0353
+StandbyGUI = 0.0353
+MainMenuGUI = 0.0471
+MatteGUI = 0.0353
+UccsDigitalOnlyTokenGui-Still = 0.0118
+BadServiceGUI-Still = 0.1294
+VolumeGUI = 0.0118
+SignalQualityGUI-Still = 0.1059
+RadioStill = 0.0706
+AppGUI = 0.0235
+UpdatePopupGUI = 0.0118
+PVRBannerGui = 0.0706
+AlarmPopupGUI = 0.0118
+PVRInstantRecGui = 0.0353
+GridBoxGUI = 0.0588
+LaunchpadGUI = 0.0118
+RecListGUI = 0.0353
+InviteGUI-Still = 0.0118
+PinCodeGUI-Still = 0.0471
+HINWEISGUI = 0.1647
+ViewingGUI = 0.0235
+SetupGUI = 0.0118
+InfoBoxGUI = 0.0353
+StandbyGUI = 0.0353
+MainMenuGUI = 0.0471
+MatteGUI = 0.0353
+UccsDigitalOnlyTokenGui-Still = 0.0118
+BadServiceGUI-Still = 0.1294
+VolumeGUI = 0.0118
+SignalQualityGUI-Still = 0.1059
+RadioStill = 0.0706
+AppGUI = 0.0235
+UpdatePopupGUI = 0.0118
+PVRBannerGui = 0.0706
+AlarmPopupGUI = 0.0118
+PVRInstantRecGui = 0.0353
+GridBoxGUI = 0.0588
+LaunchpadGUI = 0.0118
+RecListGUI = 0.0353
+InviteGUI-Still = 0.0118
+PinCodeGUI-Still = 0.0471
+HINWEISGUI = 0.1647
+ViewingGUI = 0.0235
+SetupGUI = 0.0118
+InfoBoxGUI = 0.0755
+PVRBannerGui = 0.0377
+UccsDigitalOnlyTokenGui-Still = 0.0189
+StandbyGUI = 0.0189
+LaunchpadGUI = 0.0189
+MainMenuGUI = 0.0566
+Gui[12] = 0.0755
+PVRInstantRecGui = 0.0755
+RecListGUI = 0.0943
+RadioStill = 0.0943
+MatteGUI = 0.0566
+VolumeGUI = 0.0755
+BadServiceGUI-Still = 0.0377
+SetupStill = 0.0566
+SetupGUI = 0.0566
+GSportsBarGUI = 0.0377
+ViewingGUI = 0.0189
+AlarmPopupGUI = 0.0189
+GridBoxGUI = 0.0755
+=======Final values===
+SetupGUI ==masterid_log_values= {'InfoBoxGUI': 0.1761, 'UccsDigitalOnlyTokenGui-Still': 0.0, 'MainMenuGUI': 0.0792, 'Gui[12]': 0.1761, 'BadServiceGUI-Still': 0.0, 'VolumeGUI': 0.1761, 'SignalQualityGUI-Still': 0.4771, 'RadioStill': 0.0792, 'PVRBannerGui': 0.0, 'AppGUI': 0.301, 'UpdatePopupGUI': 0.4771, 'StandbyGUI': 0.301, 'AlarmPopupGUI': 0.301, 'PVRInstantRecGui': 0.0792, 'GridBoxGUI': 0.0792, 'LaunchpadGUI': 0.1761, 'RecListGUI': 0.0792, 'InviteGUI-Still': 0.1761, 'SetupStill': 0.301, 'PinCodeGUI-Still': 0.1761, 'PvrWarningMsgGUI': 0.7782, 'HINWEISGUI': 0.301, 'GSportsBarGUI': 0.301, 'ViewingGUI': 0.1761, 'MatteGUI': 0.0, 'SetupGUI': 0.0792}
+Master screen count {'Gui[12]': 4, 'InfoBoxGUI': 4, 'UccsDigitalOnlyTokenGui-Still': 6, 'MainMenuGUI': 5, 'MatteGUI': 6, 'BadServiceGUI-Still': 6, 'VolumeGUI': 4, 'StandbyGUI': 3, 'SignalQualityGUI-Still': 2, 'RadioStill': 5, 'AppGUI': 3, 'UpdatePopupGUI': 2, 'PVRBannerGui': 6, 'AlarmPopupGUI': 3, 'PVRInstantRecGui': 5, 'GridBoxGUI': 5, 'LaunchpadGUI': 4, 'RecListGUI': 5, 'InviteGUI-Still': 4, 'PinCodeGUI-Still': 4, 'PvrWarningMsgGUI': 1, 'HINWEISGUI': 3, 'GSportsBarGUI': 3, 'ViewingGUI': 4, 'SetupStill': 3, 'SetupGUI': 5}
+master_screen_id_log_value {'InfoBoxGUI': 0.1761, 'UccsDigitalOnlyTokenGui-Still': 0.0, 'MainMenuGUI': 0.0792, 'Gui[12]': 0.1761, 'BadServiceGUI-Still': 0.0, 'VolumeGUI': 0.1761, 'SignalQualityGUI-Still': 0.4771, 'RadioStill': 0.0792, 'PVRBannerGui': 0.0, 'AppGUI': 0.301, 'UpdatePopupGUI': 0.4771, 'StandbyGUI': 0.301, 'AlarmPopupGUI': 0.301, 'PVRInstantRecGui': 0.0792, 'GridBoxGUI': 0.0792, 'LaunchpadGUI': 0.1761, 'RecListGUI': 0.0792, 'InviteGUI-Still': 0.1761, 'SetupStill': 0.301, 'PinCodeGUI-Still': 0.1761, 'PvrWarningMsgGUI': 0.7782, 'HINWEISGUI': 0.301, 'GSportsBarGUI': 0.301, 'ViewingGUI': 0.1761, 'MatteGUI': 0.0, 'SetupGUI': 0.0792}
+== PvrWarningMsgGUI : 0.0467
+== SignalQualityGUI-Still : 0.019
+== HINWEISGUI : 0.0074
+== SetupStill : 0.0057
+== GSportsBarGUI : 0.0045
+== InfoBoxGUI : 0.0038
+== Gui[12] : 0.0035
+== VolumeGUI : 0.0035
+== StandbyGUI : 0.0035
+== AlarmPopupGUI : 0.0024
+== UpdatePopupGUI : 0.0021
+== RadioStill : 0.0018
+== RecListGUI : 0.0016
+== GridBoxGUI : 0.0014
+== PVRInstantRecGui : 0.0013
+== MainMenuGUI : 0.0011
+== AppGUI : 0.0011
+== ViewingGUI : 0.0011
+== LaunchpadGUI : 0.001
+== SetupGUI : 0.0009
+== PinCodeGUI-Still : 0.0006
+== InviteGUI-Still : 0.0002
+== UccsDigitalOnlyTokenGui-Still : 0.0
+== MatteGUI : 0.0
+== BadServiceGUI-Still : 0.0
+== PVRBannerGui : 0.0
+======var final sorted=== [('UccsDigitalOnlyTokenGui-Still', 4257), ('GridBoxGUI', 703), ('Gui[12]', 579), ('MatteGUI', 290), ('RecListGUI', 253), ('PVRBannerGui', 229), ('MainMenuGUI', 224), ('RadioStill', 161), ('PinCodeGUI-Still', 137), ('SignalQualityGUI-Still', 78), ('BadServiceGUI-Still', 72), ('InviteGUI-Still', 61), ('InfoBoxGUI', 41), ('AppGUI', 35), ('PVRInstantRecGui', 29), ('PvrWarningMsgGUI', 28), ('UpdatePopupGUI', 22), ('LaunchpadGUI', 19), ('SetupGUI', 12), ('HINWEISGUI', 4), ('StandbyGUI', 2), ('GSportsBarGUI', 2), ('SetupStill', 1), ('VolumeGUI', 0), ('AlarmPopupGUI', 0), ('ViewingGUI', 0)]
+== UccsDigitalOnlyTokenGui-Still : 4257
+== GridBoxGUI : 703
+== Gui[12] : 579
+== MatteGUI : 290
+== RecListGUI : 253
+== PVRBannerGui : 229
+== MainMenuGUI : 224
+== RadioStill : 161
+== PinCodeGUI-Still : 137
+== SignalQualityGUI-Still : 78
+== BadServiceGUI-Still : 72
+== InviteGUI-Still : 61
+== InfoBoxGUI : 41
+== AppGUI : 35
+== PVRInstantRecGui : 29
+== PvrWarningMsgGUI : 28
+== UpdatePopupGUI : 22
+== LaunchpadGUI : 19
+== SetupGUI : 12
+== HINWEISGUI : 4
+== StandbyGUI : 2
+== GSportsBarGUI : 2
+== SetupStill : 1
+== VolumeGUI : 0
+== AlarmPopupGUI : 0
+== ViewingGUI : 0

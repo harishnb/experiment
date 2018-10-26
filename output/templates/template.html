@@ -1,0 +1,28 @@
+<!doctype html>
+<title>Uploaded file details</title>
+
+{% if clear_page %}
+  <h1>All files are Deleted, want to upload fresh set of files? </h1>
+    <a href="http://127.0.0.1:5000/"> <button> Upload More files </button> </a>
+{% else %}
+    {% if filename %}
+      <h1>The new file uploaded is {{filename}}!</h1>
+    {% else %}
+      <h1>no image for whatever reason</h1>
+    {% endif %}
+<h2> Want to upload more files? </h2>
+    <a href="http://127.0.0.1:5000/"> <button> Upload files </button> </a>
+
+    {% if files_uploaded %}
+      <h1>The list of files uploaded are: </h1>
+        <td>{{files_uploaded}}!</td>
+    {% else %}
+      <h1>no files retry</h1>
+    {% endif %}
+    <br> &nbsp;</br>
+    <a href="/exec"> <button> clear all files </button> </a>
+    <br> &nbsp; </br>
+    <a href="/result"> <button> Result display </button> </a>
+    <br> &nbsp; </br>
+     <a href="/graph"> <button> Graph display </button> </a>
+{% endif %}
